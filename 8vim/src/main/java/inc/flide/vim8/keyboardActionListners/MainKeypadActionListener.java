@@ -140,6 +140,7 @@ public class MainKeypadActionListener extends KeypadActionListener {
             case INPUT_KEY:
                 handleInputKey(keyboardAction);
                 break;
+                
         }
     }
 
